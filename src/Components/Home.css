@@ -1,0 +1,15 @@
+.maindiv {
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-bottom: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+
+h4 {
+    color: white;
+}
+
+body {
+    background-color: #1c273a;
+}
